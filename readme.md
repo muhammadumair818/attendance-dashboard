@@ -35,7 +35,7 @@ The **Attendance Intelligence Dashboard** transforms raw attendance logs into ac
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/attendance-intelligence-dashboard.git
+   git clone https://github.com/muhammadumair818/attendance-dashboard.git
    cd attendance-intelligence-dashboard
 Create a virtual environment (optional but recommended)
 
